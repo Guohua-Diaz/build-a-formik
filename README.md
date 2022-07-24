@@ -1,3 +1,4 @@
 # build-a-formik
 *simple form*
-![This is an image](build-a-formik.jpg| width=100)
+<img src='build-a-formik.jpg' width='25'>
+
