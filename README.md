@@ -1,4 +1,6 @@
 # build-a-formik
 *simple form*
-<img src='build-a-formik.jpg' width='100'>
+
+
+<img src='build-a-formik.jpg' width='250'>
 
